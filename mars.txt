@@ -1,3 +1,6 @@
 oiio o planeta 
 ijifjof
 jajajaj
+Modification on planets file. 
+I am Juan 
+>>>>>>> 573d5dbe5fe591a62cdcf97c476fdd2c43f46998
